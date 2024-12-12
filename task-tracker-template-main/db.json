@@ -1,0 +1,80 @@
+{
+  "tasks": [
+    {
+      "text": "Learn Angular",
+      "day": "March 29th at 1.30",
+      "reminder": false,
+      "completed": false,
+      "createdBy": "test1@gmail.com",
+      "id": 1
+    },
+    {
+      "text": "Learn React",
+      "day": "April 25th at 13.00",
+      "reminder": false,
+      "completed": false,
+      "createdBy": "test2@gmail.com",
+      "id": 2
+    },
+    {
+      "text": "Learn test",
+      "day": "March 29th at 1.30",
+      "reminder": false,
+      "completed": false,
+      "createdBy": "test1@gmail.com",
+      "id": 3
+    },
+    {
+      "text": "new expense",
+      "day": "thursday",
+      "amount": "7456456",
+      "reminder": false,
+      "completed": false,
+      "userName": null,
+      "createdBy": "abcd@gmail.com",
+      "id": 10
+    },
+    {
+      "text": "new expense",
+      "day": "thursday",
+      "amount": "4511",
+      "reminder": false,
+      "completed": false,
+      "userName": null,
+      "createdBy": "abcd@gmail.com",
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "email": "test1@gmail.com",
+      "password": "$2a$10$bCh8wldcXqSkmL8vXkqYh.gsjYFVu8vyZJiepxvRCYz0sqD2Kqt/S",
+      "id": 1
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "$2a$10$BVdOsrNWh8k3s3Ux2TkWXe5RHLx3eBTcC8jbApUiZ6bYDAvQqUvje",
+      "id": 2
+    },
+    {
+      "email": "dummyuser@gmail.com",
+      "password": "$2a$10$oCYc6SoL4lbxkHBdAQu/6.zU387unhFX7MN874JnKvbdkssi4neBq",
+      "id": 3
+    },
+    {
+      "email": "testth@gmail.com",
+      "password": "$2a$10$0/4LLI6AdRfWltAWBklhNepY6g5cJZB9x0UGVMnTtyjrH9UyB3/82",
+      "id": 4
+    },
+    {
+      "email": "testlogin@gmail.com",
+      "password": "$2a$10$duZdYb.FLGmIK5PlvocKKuR2Eh8Uqx8qSjffGBMsOuZwYCbWT8QDC",
+      "id": 5
+    },
+    {
+      "email": "abcd@gmail.com",
+      "password": "$2a$10$gK0kOQcq5ab6JaM1rMgysexNoIzR1sVxOM9cstsCAWcpkZWSRSY2G",
+      "id": 6
+    }
+  ]
+}
